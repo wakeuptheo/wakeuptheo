@@ -35,6 +35,6 @@ I keep learning to improve my language skills :man_student:
 <a href="https://github.com/WakeUpTheo/rest-assured"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=rest-assured&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=E9F1F9&border_color=444444&show_icons=true"></a>
 
 ### GitHub Stats<br/>
-[![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo) [![Repos Badge](https://badges.pufler.dev/repos/WakeUpTheo)](https://github.com/WakeUpTheo?tab=repositories)<br/>
+[![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WakeUpTheo&layout=compact)](https://github.com/WakeUpTheo?tab=repositories)<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WakeUpTheo&show_icons=true&theme=cobalt&title_color=cce2ff&icon_color=ffffaf)](https://github.com/WakeUpTheo)
