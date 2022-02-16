@@ -26,13 +26,11 @@ I learn and practice Automation Testing
 I keep learning to improve my language skills :man_student:
 
 
-### The Graduation Work for the Test Automation Training [Course](https://qa.guru/) :mortar_board:<br/>
+### Projects :mortar_board:<br/>
 
-<a href="https://github.com/WakeUpTheo/tezis-doc"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=tezis-doc&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFAEC&border_color=444444&show_icons=true"></a>
-
-<a href="https://github.com/WakeUpTheo/mobile-Wiki"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=mobile-Wiki&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=E7FFDF&border_color=444444&show_icons=true"></a>
-
-<a href="https://github.com/WakeUpTheo/rest-assured"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=rest-assured&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=E9F1F9&border_color=444444&show_icons=true"></a>
+<a href="https://github.com/WakeUpTheo/tezis-doc"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=tezis-doc&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
+<a href="https://github.com/WakeUpTheo/mobile-Wiki"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=mobile-Wiki&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
+<a href="https://github.com/WakeUpTheo/rest-assured"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=rest-assured&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
 
 ### GitHub Stats<br/>
 [![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo)<br/>
