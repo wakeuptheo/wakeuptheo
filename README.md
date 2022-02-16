@@ -13,7 +13,7 @@ I learn and practice Automation Testing
 
 ### Skills<br/>
 **Coding**<br/>
-[<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=black" />](https://www.java.com/) 
+[<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/) 
 [<img src="https://img.shields.io/badge/Python-35709f?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)<br/>
 **Testing frameworks**<br/>
 [<img src="https://img.shields.io/badge/Selenide-b400b4?style=for-the-badge&logo=selenide&logoColor=white" />](https://selenide.org/) 
@@ -25,7 +25,7 @@ I learn and practice Automation Testing
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)<br/>
 **Tools**<br/>
 [<img src="https://img.shields.io/badge/Git-3f2e00?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/) 
-[<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" />](https://www.jenkins.io/) 
+[<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />](https://www.jenkins.io/) 
 [<img src="https://img.shields.io/badge/Allure%20Report-ffd050?style=for-the-badge&logo=allure&logoColor=white" />](https://docs.qameta.io/allure/) 
 [<img src="https://img.shields.io/badge/Allure%20TestOps-4ddf82?style=for-the-badge&logo=Allure%20TestOps&logoColor=white" />](https://docs.qameta.io/allure-testops/)<br/>
 [<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />](https://www.postman.com/) 
