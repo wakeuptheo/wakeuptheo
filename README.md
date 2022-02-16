@@ -43,6 +43,7 @@ I learn and practice Automation Testing
 <a href="https://github.com/WakeUpTheo/tezis-doc"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=tezis-doc&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
 <a href="https://github.com/WakeUpTheo/mobile-Wiki"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=mobile-Wiki&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
 <a href="https://github.com/WakeUpTheo/rest-assured"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=rest-assured&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
+<a href="https://github.com/WakeUpTheo/Selenium"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=Selenium&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
 
 ### GitHub Stats<br/>
 [![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo)<br/>
