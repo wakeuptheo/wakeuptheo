@@ -13,14 +13,29 @@ I learn and practice Automation Testing
 
 ### Skills<br/>
 **Coding**<br/>
-[<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=7cf8bc" />](https://www.java.com/) [<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=7cf8bc" />](https://www.python.org/)<br/>
+[<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/) 
+[<img src="https://img.shields.io/badge/Python-35709f?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)<br/>
 **Testing frameworks**<br/>
-[<img src="https://img.shields.io/badge/Test-Selenide-informational?style=flat&logo=&logoColor=white&color=ffafbf" />](https://selenide.org/) [<img src="https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=ffafbf" />](https://www.selenium.dev/)<br/>
-[<img src="https://img.shields.io/badge/Test-JUnit5-informational?style=flat&logo=junit5&logoColor=white&color=ffafbf" />](https://junit.org/junit5/) [<img src="https://img.shields.io/badge/Test-REST%20Assured-informational?style=flat&logo=&logoColor=white&color=ffafbf" />](https://rest-assured.io/)<br/>
+[<img src="https://img.shields.io/badge/Selenide-b400b4?style=for-the-badge&logo=selenide&logoColor=white" />](https://selenide.org/) 
+[<img src="https://img.shields.io/badge/Selenium-00ae00?style=for-the-badge&logo=selenium&logoColor=white" />](https://www.selenium.dev/)<br/>
+[<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />](https://junit.org/junit5/) 
+[<img src="https://img.shields.io/badge/REST%20Assured-109b2e?style=for-the-badge&logo=restassured&logoColor=white" />](https://rest-assured.io/)<br/>
 **Database management systems**<br/>
-[<img src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=e9c4f8" />](https://www.microsoft.com/en-us/sql-server/) [<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9c4f8" />](https://www.postgresql.org/)<br/>
+[<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-a91d22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />](https://www.microsoft.com/en-us/sql-server/) 
+[<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)<br/>
 **Tools**<br/>
-[<img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=ffffaf" />](https://git-scm.com/) [<img src="https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=ffffaf" />](https://www.jenkins.io/) [<img src="https://img.shields.io/badge/Tool-Allure%20Report-informational?style=flat&logo=&logoColor=white&color=ffffaf" />](https://docs.qameta.io/allure/) [<img src="https://img.shields.io/badge/Tool-Allure%20TestOps-informational?style=flat&logo=&logoColor=white&color=ffffaf" /><br/>](https://docs.qameta.io/allure-testops/) [<img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=ffffaf" />](https://www.postman.com/) [<img src="https://img.shields.io/badge/Tool-SoapUI-informational?style=flat&logo=&logoColor=white&color=ffffaf" />](https://www.soapui.org/) [<img src="https://img.shields.io/badge/Tool-JMeter-informational?style=flat&logo=&logoColor=white&color=ffffaf" />](https://jmeter.apache.org/) [<img src="https://img.shields.io/badge/Tool-Fiddler-informational?style=flat&logo=&logoColor=white&color=ffffaf" />](https://www.telerik.com/fiddler)<br/>
+[<img src="https://img.shields.io/badge/Git-3f2e00?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/) 
+[<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />](https://www.jenkins.io/) 
+[<img src="https://img.shields.io/badge/Allure%20Report-ffd050?style=for-the-badge&logo=allure&logoColor=white" />](https://docs.qameta.io/allure/) 
+[<img src="https://img.shields.io/badge/Allure%20TestOps-4ddf82?style=for-the-badge&logo=Allure%20TestOps&logoColor=white" />](https://docs.qameta.io/allure-testops/)<br/>
+[<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />](https://www.postman.com/) 
+[<img src="https://img.shields.io/badge/Soap%20UI-fcdc00?style=for-the-badge&logo=soapui&logoColor=white" />](https://www.soapui.org/) 
+[<img src="https://img.shields.io/badge/JMeter-b3204e?style=for-the-badge&logo=jmeter&logoColor=white" />](https://jmeter.apache.org/) 
+[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=for-the-badge&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler) 
+[<img src="https://img.shields.io/badge/Appium-c9e9eb?style=for-the-badge&logo=appium&logoColor=white" />](https://appium.io/)<br/>
+[<img src="https://img.shields.io/badge/Selenoid-0080c1?style=for-the-badge&logo=selenoid&logoColor=white" />](https://aerokube.com/selenoid/latest/) 
+[<img src="https://img.shields.io/badge/Docker-24b2e4?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)<br/>
 **English**<br/>
 [*Click me!*](https://www.efset.org/cert/d2MGwU)<br/>
 I keep learning to improve my language skills :man_student:
