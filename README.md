@@ -36,9 +36,6 @@ I learn and practice Automation Testing
 [<img src="https://img.shields.io/badge/Selenoid-0080c1?style=for-the-badge&logo=selenoid&logoColor=white" />](https://aerokube.com/selenoid/latest/) 
 [<img src="https://img.shields.io/badge/Docker-24b2e4?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)<br/>
-**English**<br/>
-[*Click me!*](https://www.efset.org/cert/d2MGwU)<br/>
-I keep learning to improve my language skills :man_student:
 
 
 ### Projects :mortar_board:<br/>
