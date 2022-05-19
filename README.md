@@ -47,7 +47,6 @@ I learn and practice Automation Testing
 [![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/WakeUpTheo)<br/>
 
 
-### GitHub Stats<br/>
+### Some Stats<br/>
 [![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WakeUpTheo&layout=compact)](https://github.com/WakeUpTheo?tab=repositories)<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WakeUpTheo&show_icons=true&theme=cobalt&title_color=cce2ff&icon_color=ffffaf)](https://github.com/WakeUpTheo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WakeUpTheo&layout=compact)](https://github.com/WakeUpTheo?tab=repositories)
