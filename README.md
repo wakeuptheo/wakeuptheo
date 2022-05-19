@@ -20,17 +20,17 @@ I learn and practice Automation Testing
 [<img src="https://img.shields.io/badge/HTML-e96228?style=flat-square&logo=html&logoColor=white" />](https://www.w3schools.com/html/)
 [<img src="https://img.shields.io/badge/CSS-1c84c1?style=flat-square&logo=css&logoColor=white" />](https://www.w3schools.com/css/)
 [<img src="https://img.shields.io/badge/Git-3f2e00?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/) 
-[<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />](https://www.jenkins.io/) 
-[<img src="https://img.shields.io/badge/Allure%20Report-ffd050?style=flat-square&logo=allure&logoColor=white" />](https://docs.qameta.io/allure/)<br/>
-[<img src="https://img.shields.io/badge/Allure%20TestOps-4ddf82?style=flat-square&logo=Allure%20TestOps&logoColor=white" />](https://docs.qameta.io/allure-testops/)
+[<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />](https://www.jenkins.io/)<br/> 
+[<img src="https://img.shields.io/badge/Allure%20Report-ffd050?style=flat-square&logo=allure&logoColor=white" />](https://docs.qameta.io/allure/)
 [<img src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />](https://www.postman.com/) 
-[<img src="https://img.shields.io/badge/Soap%20UI-fcdc00?style=flat-square&logo=soapui&logoColor=white" />](https://www.soapui.org/) 
-[<img src="https://img.shields.io/badge/JMeter-b3204e?style=flat-square&logo=jmeter&logoColor=white" />](https://jmeter.apache.org/)<br/>
-[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler) 
+[<img src="https://img.shields.io/badge/Soap%20UI-fcdc00?style=flat-square&logo=soapui&logoColor=white" />](https://www.soapui.org/)<br/>  
+[<img src="https://img.shields.io/badge/JMeter-b3204e?style=flat-square&logo=jmeter&logoColor=white" />](https://jmeter.apache.org/) 
 [<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=white" />](https://appium.io/)
 [<img src="https://img.shields.io/badge/Selenoid-0080c1?style=flat-square&logo=selenoid&logoColor=white" />](https://aerokube.com/selenoid/latest/) 
-[<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)<br/>
+[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)
 [<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)
+
 <br/>
 
 
