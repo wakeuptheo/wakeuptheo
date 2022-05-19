@@ -4,7 +4,7 @@ I'm Fedor :adult:<br/>
 I learn and practice Automation Testing
 
 
-### Skills<br/>
+### =Skills=<br/>
 **Coding**<br/>
 [<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/) 
 [<img src="https://img.shields.io/badge/Python-35709f?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)<br/>
@@ -34,19 +34,11 @@ I learn and practice Automation Testing
 <br/>
 
 
-### Projects :mortar_board:<br/>
-
-<a href="https://github.com/WakeUpTheo/tezis-doc"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=tezis-doc&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
-<a href="https://github.com/WakeUpTheo/mobile-Wiki"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=mobile-Wiki&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
-<a href="https://github.com/WakeUpTheo/rest-assured"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WakeUpTheo&repo=rest-assured&title_color=206BA3&icon_color=674EA7&text_color=444444&bg_color=FFFFFF&border_color=444444&show_icons=true"></a>
-
-
-### Contact Info<br/>
+### =Contact Info=<br/>
 <a href="mailto:parenkov.fedor@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a>
 [![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fedor-parenkov)
 [![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/WakeUpTheo)<br/>
 
 
-### Some Stats<br/>
-[![Visits Badge](https://badges.pufler.dev/visits/WakeUpTheo/WakeUpTheo)](https://github.com/WakeUpTheo)<br/>
+### =Some Stats=<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WakeUpTheo&layout=compact)](https://github.com/WakeUpTheo?tab=repositories)
