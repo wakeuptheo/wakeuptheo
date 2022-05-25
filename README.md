@@ -17,7 +17,7 @@ I learn and practice Automation Testing
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-a91d22?style=flat-square&logo=microsoftsqlserver&logoColor=white" />](https://www.microsoft.com/en-us/sql-server/) 
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)<br/>
 **Other**<br/>
-[<img src="https://img.shields.io/badge/HTML-e96228?style=flat-square&logo=html&logoColor=white" />](https://www.w3schools.com/html/)
+[<img src="https://img.shields.io/badge/HTML-e96228?style=flat-square&logo=html&logoColor=white" />](https://html.spec.whatwg.org/)
 [<img src="https://img.shields.io/badge/CSS-1c84c1?style=flat-square&logo=css&logoColor=white" />](https://www.w3schools.com/css/)
 [<img src="https://img.shields.io/badge/Git-3f2e00?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/) 
 [<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />](https://www.jenkins.io/)<br/> 
