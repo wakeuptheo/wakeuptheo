@@ -26,9 +26,8 @@ I learn and practice Automation Testing
 [<img src="https://img.shields.io/badge/Soap%20UI-fcdc00?style=flat-square&logo=soapui&logoColor=white" />](https://www.soapui.org/)  
 [<img src="https://img.shields.io/badge/JMeter-b3204e?style=flat-square&logo=jmeter&logoColor=white" />](https://jmeter.apache.org/) 
 [<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=white" />](https://appium.io/)
-[<img src="https://img.shields.io/badge/Selenoid-0080c1?style=flat-square&logo=selenoid&logoColor=white" />](https://aerokube.com/selenoid/latest/) 
-[<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)<br/>
-[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)
+[<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)<br/>
 [<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)
 <br/>
 
