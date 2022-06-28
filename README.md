@@ -4,7 +4,7 @@ I'm Fedor :adult:<br/>
 I learn and practice Front-End Development and Automation Testing
 
 
-### =Skills=<br/>
+### My Skills<br/>
 **Coding**<br/>
 [<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
 [<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)<br/>
@@ -33,7 +33,7 @@ I learn and practice Front-End Development and Automation Testing
 <br/>
 
 
-### =Contact Info=<br/>
+### Contact Info<br/>
 <a href="mailto:parenkov.fedor@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a>
 [![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fedor-parenkov)
 [![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/WakeUpTheo)<br/>
