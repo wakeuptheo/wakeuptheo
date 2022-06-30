@@ -7,8 +7,8 @@ I learn and practice Front-End Development and Automation Testing
 ### My Skills<br/>
 **Coding**<br/>
 [<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
-[<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)<br/>
 [<img src="https://img.shields.io/badge/Python-35709f?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)<br/>
+[<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)<br/>
 **Testing**<br/>
 [<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/) 
 [<img src="https://img.shields.io/badge/Selenium-00ae00?style=flat-square&logo=selenium&logoColor=white" />](https://www.selenium.dev/)<br/>
