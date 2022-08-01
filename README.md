@@ -5,11 +5,10 @@ I learn and practice Front-End Development and Automation Testing
 
 
 ### Skills<br/>
-**Coding**<br/>
-[<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)<br/>
+[<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
 [<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-[<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/) 
-[<img src="https://img.shields.io/badge/Selenium-00ae00?style=flat-square&logo=selenium&logoColor=white" />](https://www.selenium.dev/)<br/>
+[<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/)<br/>
+[<img src="https://img.shields.io/badge/Selenium-00ae00?style=flat-square&logo=selenium&logoColor=white" />](https://www.selenium.dev/)
 [<img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />](https://junit.org/junit5/) 
 [<img src="https://img.shields.io/badge/REST%20Assured-109b2e?style=flat-square&logo=restassured&logoColor=white" />](https://rest-assured.io/)<br/>
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-a91d22?style=flat-square&logo=microsoftsqlserver&logoColor=white" />](https://www.microsoft.com/en-us/sql-server/) 
@@ -24,7 +23,7 @@ I learn and practice Front-End Development and Automation Testing
 [<img src="https://img.shields.io/badge/JMeter-b3204e?style=flat-square&logo=jmeter&logoColor=white" />](https://jmeter.apache.org/) 
 [<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=white" />](https://appium.io/)
 [<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)<br/>
+[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)
 [<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)
 <br/>
 
