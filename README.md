@@ -4,7 +4,7 @@ I'm Fedor :adult:<br/>
 I learn and practice Front-End Development and Automation Testing
 
 
-### Skills<br/>
+### Experience<br/>
 [<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
 [<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/)<br/>
