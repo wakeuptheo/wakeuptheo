@@ -24,11 +24,10 @@ I learn and practice Front-End Development and Automation Testing
 [<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=white" />](https://appium.io/)
 [<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white" />](https://www.telerik.com/fiddler)
-[<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />](https://www.atlassian.com/software/jira/)
 <br/>
 
 
 ### Contact Info<br/>
-<a href="mailto:parenkov.fedor@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a>
-[![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fedor-parenkov)
+<a href="mailto:parenkov.fedor@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a><br/>
+[![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fedor-parenkov)<br/>
 [![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/WakeUpTheo)<br/>
