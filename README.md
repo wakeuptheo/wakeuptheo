@@ -1,6 +1,6 @@
 ### Hello and Welcome to my GitHub profile!
 
-I'm Fedor :adult:<br/>
+I'm Fedor<br/>
 I learn and practice Front-End Development and Automation Testing
 
 
