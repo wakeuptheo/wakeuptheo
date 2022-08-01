@@ -4,20 +4,16 @@ I'm Fedor :adult:<br/>
 I learn and practice Front-End Development and Automation Testing
 
 
-### My Skills<br/>
+### Skills<br/>
 **Coding**<br/>
 [<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)<br/>
-[<img src="https://img.shields.io/badge/Python-35709f?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)<br/>
-[<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)<br/>
-**Testing**<br/>
+[<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/) 
 [<img src="https://img.shields.io/badge/Selenium-00ae00?style=flat-square&logo=selenium&logoColor=white" />](https://www.selenium.dev/)<br/>
 [<img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />](https://junit.org/junit5/) 
 [<img src="https://img.shields.io/badge/REST%20Assured-109b2e?style=flat-square&logo=restassured&logoColor=white" />](https://rest-assured.io/)<br/>
-**Database management systems**<br/>
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-a91d22?style=flat-square&logo=microsoftsqlserver&logoColor=white" />](https://www.microsoft.com/en-us/sql-server/) 
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)<br/>
-**Other**<br/>
 [<img src="https://img.shields.io/badge/HTML-e96228?style=flat-square&logo=html&logoColor=white" />](https://html.spec.whatwg.org/)
 [<img src="https://img.shields.io/badge/CSS-1c84c1?style=flat-square&logo=css&logoColor=white" />](https://devdocs.io/css/)
 [<img src="https://img.shields.io/badge/Git-3f2e00?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/) 
