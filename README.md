@@ -1,7 +1,7 @@
-### Hello and Welcome to my GitHub profile!
+### Hi!
 
 I'm Fedor<br/>
-I learn and practice Front-End Development and Automation Testing
+I learn and practice Frontend Development and Automation Testing
 
 
 ### Experience<br/>
