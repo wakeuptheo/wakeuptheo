@@ -1,4 +1,4 @@
-### Hello world!
+### Hello World!
 
 I'm Fedor<br/>
 I learn and practice Frontend Development and Automation Testing
