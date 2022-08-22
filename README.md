@@ -5,8 +5,8 @@ I learn and practice Frontend Development and Automation Testing
 
 
 ### Experience<br/>
-[<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
 [<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=gray" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" />](https://www.java.com/)
 [<img src="https://img.shields.io/badge/Selenide-b400b4?style=flat-square&logo=selenide&logoColor=white" />](https://selenide.org/)<br/>
 [<img src="https://img.shields.io/badge/Selenium-00ae00?style=flat-square&logo=selenium&logoColor=white" />](https://www.selenium.dev/)
 [<img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />](https://junit.org/junit5/) 
