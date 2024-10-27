@@ -30,5 +30,4 @@ I learn and practice Frontend Development and Automation Testing
 
 ### Contact Info<br/>
 <a href="mailto:parenkov.fedor@gmail.com">![](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=e04a3e)</a><br/>
-[![](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fedor-parenkov)<br/>
 [![](https://img.shields.io/badge/Telegram-Account-informational?style=flat&logo=telegram&logoColor=white&color=31a2db)](https://t.me/wakeuptheo)<br/>
