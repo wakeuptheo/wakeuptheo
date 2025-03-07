@@ -1,3 +1,4 @@
+<head>
   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap" rel="stylesheet">
     <style>
         .source-code {
@@ -6,7 +7,7 @@
             font-weight: bold;
         }
     </style>
-
+</head>
 <p class="source-code">
   Hello World!
 </p>
