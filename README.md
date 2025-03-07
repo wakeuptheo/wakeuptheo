@@ -24,9 +24,9 @@ I learn and practice Frontend Development and Automation Testing
 [<img src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white">](https://www.postman.com/) 
 [<img src="https://img.shields.io/badge/Soap%20UI-fcdc00?style=flat-square&logo=soapui&logoColor=white">](https://www.soapui.org/)  
 [<img src="https://img.shields.io/badge/JMeter-b3204e?style=flat-square&logo=jmeter&logoColor=white">](https://jmeter.apache.org/)
-[<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=white">](https://appium.io/)
+[<img src="https://img.shields.io/badge/Appium-c9e9eb?style=flat-square&logo=appium&logoColor=gray">](https://appium.io/)
 [<img src="https://img.shields.io/badge/Docker-24b2e4?style=flat-square&logo=docker&logoColor=white">](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=white">](https://www.telerik.com/fiddler/)
+[<img src="https://img.shields.io/badge/Fiddler-5ce500?style=flat-square&logo=fiddler&logoColor=black">](https://www.telerik.com/fiddler/)
 <br/>
 
 
