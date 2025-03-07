@@ -1,17 +1,4 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        .source-code {
-            font-family: 'Source Code Pro', monospace;
-            font-size: 20px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<p class="source-code">
   Hello World!
-</p>
-
 
 I'm Fedor<br/>
 I learn and practice Frontend Development and Automation Testing
